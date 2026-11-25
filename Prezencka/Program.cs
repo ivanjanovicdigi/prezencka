@@ -16,6 +16,6 @@ class Program
         Console.WriteLine("Linda tu bola.");
         Console.WriteLine("toto je zmena paulinkinej branch");
         
-        Console.WriteLine("ASS");
+        Console.WriteLine("ASS, MAM MALI DICK");
     }
 }
