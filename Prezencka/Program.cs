@@ -7,7 +7,6 @@ class Program
         Console.WriteLine("Toto je prezencka !"); 
         Console.WriteLine("Bol som tu a volam sa David."); 
         Console.WriteLine("Bol som tu a volam sa Oliver."); 
-    {
         Console.WriteLine("Toto je prezencka !");
         Console.WriteLine("Bol som tu a volam sa Tomas Trnka");
         Console.WriteLine("Simon Titus Glasa");
