@@ -6,9 +6,8 @@ class Program
     {
         Console.WriteLine("Toto je prezencka !");
         Console.WriteLine("bol som tu = juraj pokojny");  
-        
+        Console.WriteLine("Bol som tu a volam sa Jakub Noskovič");
+        Console.WriteLine("Bol som tu a volam sa Paula");
         Console.WriteLine("Bol som tu a volam sa David.");
-        
-        
     }
 }
