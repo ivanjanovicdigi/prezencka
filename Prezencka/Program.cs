@@ -10,6 +10,6 @@ class Program
         Console.WriteLine("Bol som tu a volam sa Jakub Noskovič");
         Console.WriteLine("Bol som tu a volam sa Paula");
         Console.WriteLine("Bol som tu a volam sa David.");
-        Console.WriteLine("Linda tu bola");
+        Console.WriteLine("Linda tu bola.");
     }
 }
