@@ -14,5 +14,7 @@ class Program
         Console.WriteLine("Bol som tu a volam sa David.");
         Console.WriteLine("Bol som tu a volam sa David K.");
         Console.WriteLine("Linda tu bola.");
+        
+        Console.WriteLine("Toto je moja zmena v mojej brenči - Matej");
     }
 }
