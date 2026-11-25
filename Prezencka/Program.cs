@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Toto je prezencka !");
         Console.WriteLine("Bol som tu a volam sa David.");
+        Console.WriteLine("Aj ja som tu dnes bol a volam sa Ivan.");
     }
 }
