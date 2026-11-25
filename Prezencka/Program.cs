@@ -6,6 +6,7 @@ class Program
     {
         Console.WriteLine("Toto je prezencka !");
         Console.WriteLine("Ja sem byl tunake a volam se maximilian velky");
+        Console.WriteLine("HENGOOOOO")
         Console.WriteLine("HENGOOOOO");
     }
 }
