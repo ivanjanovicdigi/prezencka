@@ -12,4 +12,4 @@ class Program
         Console.WriteLine("Bol som tu a volam sa Paula");
         Console.WriteLine("Bol som tu a volam sa David.");
     }
-}
+} 
