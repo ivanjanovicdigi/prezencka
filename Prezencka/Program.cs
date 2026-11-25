@@ -8,5 +8,6 @@ class Program
         Console.WriteLine("Ja sem byl tunake a volam se maximilian velky");
         Console.WriteLine("HENGOOOOO")
         Console.WriteLine("HENGOOOOO");
+        Console.WriteLine("HENGOOOOO max was here");
     }
 }
