@@ -8,5 +8,6 @@ class Program
         Console.WriteLine("bol som tu = juraj pokojny");  
         
         Console.WriteLine("Bol som tu a volam sa David.");
+        
     }
 }
